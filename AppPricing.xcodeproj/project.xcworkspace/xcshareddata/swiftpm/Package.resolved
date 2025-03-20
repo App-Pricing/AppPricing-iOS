@@ -1,12 +1,12 @@
 {
-  "originHash" : "3a3459e896351d312a4fb3d6b1129a0d2f748360fc525ef149555c2eccc0d509",
+  "originHash" : "c023fea7015aaa2b3c4de8db76aedb3fc0b6d2367b5915ccf3a390e74f78146e",
   "pins" : [
     {
       "identity" : "apppricingsdk-ios",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apppricingsdk/ApppricingSDK-iOS",
+      "location" : "https://github.com/App-Pricing/ApppricingSDK-iOS",
       "state" : {
-        "revision" : "dad7812ca5aded50f5e246a824d3073b58a2eee5",
+        "revision" : "a59dc2590af651f62a1837f7af3af223473ef91b",
         "version" : "1.0.0"
       }
     },
